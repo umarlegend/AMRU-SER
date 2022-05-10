@@ -3,7 +3,7 @@
 <img src=https://i.imgur.com/Q8UeA57.png>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+AMRUSIR+WA+BOT+REPO;CREATED+BY+AMRU+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+UMAR+WA+BOT+REPO;CREATED+BY+UMAR+DEV;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -22,7 +22,7 @@
 <img src=https://ibb.co/t38crMz/ae6572d653ee04f78fc986bddd89d5b3.png>
 </p>
 
-**[![DARK-UMAR](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![DARK-UMAR](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/923165123719?text=Can%20you%20help%20bro)**
 
   <p align="center">
 <a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
