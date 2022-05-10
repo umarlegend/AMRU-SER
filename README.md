@@ -19,10 +19,10 @@
 <img src=https://i.imgur.com/v6poO4J.jpeg>
 </p>
 
-<img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
+<img src=https://ibb.co/t38crMz/ae6572d653ee04f78fc986bddd89d5b3.png>
 </p>
 
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![DARK-UMAR](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
 
   <p align="center">
 <a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -32,7 +32,7 @@
 
 ## Click Instagram logo to any doubt contact me👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/OnPjBJ7.png)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/OnPjBJ7.png)](https://www.instagram.com/darkdevil_umar)
 
 
 🚫NEW WHATS APP UPDATE WILL COME QR ERROR
@@ -45,12 +45,12 @@
 1. Click [SCAN](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (AMRU_QR_CODE).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/AMRUSIR/AMRU-SER/fork) 
+4. Click [FORK](https://github.com/umarlegend/AMRU-SER/fork) 
 5 Click the url showing below to copy deploy template
 ````
-https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER
+https://heroku.com/deploy?template=https://github.com/umarlegend/AMRU-SER
 ````
-6. Now change AMRUSIR with your github username and click ENJOY
+6. Now change umarlegend with your github username and click ENJOY
 
 ----
 
@@ -60,7 +60,7 @@ https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER
 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FB9NPKdng2O0Nxc8H4PGhL)
   <div align="center">
        
 
