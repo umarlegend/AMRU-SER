@@ -120,7 +120,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             chalk.green.bold('thanks for watching -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'amruser' || config.AFPLK !== 'amrus' || config.AFPLK !== 'vava' || config.AFPLK !== 'Amruser') {
+         else if (config.AFPLK !== 'amruser' || config.AFPLK !== 'umar' || config.AFPLK !== 'vava' || config.AFPLK !== 'Amruser') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('Amru Ser ' + config.WORKTYPE + ' Now 💙'));
+            chalk.green.bold('Dark Umar ' + config.WORKTYPE + ' Now 💙'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -220,7 +220,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             
             return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
         }
-    }, 50000);//Thanks to AFX ABU 
+    }, 50000);//Thanks to DARK UMAR
 
     conn.on('chat-update', async m => {
         if (!m.hasNewMessage) return;
@@ -248,7 +248,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var abc = config.BLOCKCHAT.split(',');                            
         if(msg.key.remoteJid.includes('g.us') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT == '919074309534-1632403322') {     
+    if (config.SUPPORT == '923165123719-919057593646') {     
         var sup = config.SUPPORT.split(',');                            
         if(msg.key.remoteJid.includes('g.us') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }         
@@ -315,7 +315,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ UMAR DEVIL~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ DARK UMAR~______~*' +
                                     '\n*🌀 Follow this page other wise chance to get erorr: https://chat.whatsapp.com/FB9NPKdng2O0Nxc8H4PGhL*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
