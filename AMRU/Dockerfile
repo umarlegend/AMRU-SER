@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/umarlegend/AMRU-SER /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/umarlegend/DARK-DEVIL /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
