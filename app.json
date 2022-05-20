@@ -1,7 +1,7 @@
 {
     "name": "UMAR ",
     "description": "UMAR is the Modified Version of WhatsAsena, Made By @wvfx-UMAR with Baileys.",
-    "logo": "https://imgur.com/a/hlquIOG",
+    "logo": "https://imgur.com/hlquIOG.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/umarlegend/DARK-DEVIL",
     "website":   "https://github.com/farhan-dqz/Julie-Mwol",
@@ -218,7 +218,7 @@
             "value": "wa.me/923165123719"
         },
         "NUMBER": {
-            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 92 for indian ) Also don't enter space & + on the number ( example : 92316512xxxx for Pakistani). ( This number will be shown on some commands )",
+            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 92 for Pakistani) Also don't enter space & + on the number ( example : 92316512xxxx for Pakistani). ( This number will be shown on some commands )",
             "required": false,
             "value": "wa.me/923165123719"
         },
